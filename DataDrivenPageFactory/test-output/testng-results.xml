@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-03-04T16:37:03 IST" name="Suite" finished-at="2025-03-04T16:37:33 IST" duration-ms="30763">
+    <groups>
+    </groups>
+    <test started-at="2025-03-04T16:37:03 IST" name="Test" finished-at="2025-03-04T16:37:33 IST" duration-ms="30763">
+      <class name="TestCases.VerifyPage1">
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestCases.VerifyPage1@d35dea7]" started-at="2025-03-04T16:37:04 IST" name="setup" finished-at="2025-03-04T16:37:10 IST" duration-ms="5783" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifylogin(java.lang.String,java.lang.String)[pri:1, instance:TestCases.VerifyPage1@d35dea7]" started-at="2025-03-04T16:37:10 IST" name="verifylogin" data-provider="info" finished-at="2025-03-04T16:37:11 IST" duration-ms="551" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[unm]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pass]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifylogin -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:TestCases.VerifyPage1@d35dea7]" started-at="2025-03-04T16:37:11 IST" name="tearDown" finished-at="2025-03-04T16:37:11 IST" duration-ms="440" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifylogin status=SUCCESS method=VerifyPage1.verifylogin(java.lang.String,java.lang.String)[pri:1, instance:TestCases.VerifyPage1@d35dea7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestCases.VerifyPage1@d35dea7]" started-at="2025-03-04T16:37:11 IST" name="setup" finished-at="2025-03-04T16:37:15 IST" duration-ms="4014" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifylogin(java.lang.String,java.lang.String)[pri:1, instance:TestCases.VerifyPage1@d35dea7]" started-at="2025-03-04T16:37:15 IST" name="verifylogin" data-provider="info" finished-at="2025-03-04T16:37:16 IST" duration-ms="459" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[aaa]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[a123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifylogin -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:TestCases.VerifyPage1@d35dea7]" started-at="2025-03-04T16:37:16 IST" name="tearDown" finished-at="2025-03-04T16:37:16 IST" duration-ms="400" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifylogin status=SUCCESS method=VerifyPage1.verifylogin(java.lang.String,java.lang.String)[pri:1, instance:TestCases.VerifyPage1@d35dea7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestCases.VerifyPage1@d35dea7]" started-at="2025-03-04T16:37:16 IST" name="setup" finished-at="2025-03-04T16:37:20 IST" duration-ms="3623" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifylogin(java.lang.String,java.lang.String)[pri:1, instance:TestCases.VerifyPage1@d35dea7]" started-at="2025-03-04T16:37:20 IST" name="verifylogin" data-provider="info" finished-at="2025-03-04T16:37:20 IST" duration-ms="499" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[bbb]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[b123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifylogin -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:TestCases.VerifyPage1@d35dea7]" started-at="2025-03-04T16:37:20 IST" name="tearDown" finished-at="2025-03-04T16:37:21 IST" duration-ms="481" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifylogin status=SUCCESS method=VerifyPage1.verifylogin(java.lang.String,java.lang.String)[pri:1, instance:TestCases.VerifyPage1@d35dea7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestCases.VerifyPage1@d35dea7]" started-at="2025-03-04T16:37:21 IST" name="setup" finished-at="2025-03-04T16:37:24 IST" duration-ms="3679" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifylogin(java.lang.String,java.lang.String)[pri:1, instance:TestCases.VerifyPage1@d35dea7]" started-at="2025-03-04T16:37:24 IST" name="verifylogin" data-provider="info" finished-at="2025-03-04T16:37:25 IST" duration-ms="597" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ccc]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[c123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifylogin -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:TestCases.VerifyPage1@d35dea7]" started-at="2025-03-04T16:37:25 IST" name="tearDown" finished-at="2025-03-04T16:37:25 IST" duration-ms="440" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifylogin status=SUCCESS method=VerifyPage1.verifylogin(java.lang.String,java.lang.String)[pri:1, instance:TestCases.VerifyPage1@d35dea7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestCases.VerifyPage1@d35dea7]" started-at="2025-03-04T16:37:25 IST" name="setup" finished-at="2025-03-04T16:37:29 IST" duration-ms="3599" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyForgetPwd()[pri:2, instance:TestCases.VerifyPage1@d35dea7]" started-at="2025-03-04T16:37:29 IST" name="verifyForgetPwd" finished-at="2025-03-04T16:37:33 IST" duration-ms="3771" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyForgetPwd -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:TestCases.VerifyPage1@d35dea7]" started-at="2025-03-04T16:37:33 IST" name="tearDown" finished-at="2025-03-04T16:37:33 IST" duration-ms="466" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyForgetPwd status=SUCCESS method=VerifyPage1.verifyForgetPwd()[pri:2, instance:TestCases.VerifyPage1@d35dea7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TestCases.VerifyPage1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
