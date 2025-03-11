@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="12.946" tests="1" skipped="0" failures="0" errors="0">
+<testcase classname="Rediff Account Functionality" name="User signs in with valid credentials" time="12.699">
+<system-out><![CDATA[
+Given I am in thereddif page................................................passed
+When I enter valid username and password....................................passed
+And I click on the Sign-in button...........................................passed
+Then I logged in the reddif.................................................passed
+Given I am on the Rediff Create Account page................................passed
+When I fill in the registration details.....................................passed
+And I submit the form.......................................................passed
+Then my Rediff account should be created successfully.......................passed
+]]></system-out>
+</testcase>
+</testsuite>
